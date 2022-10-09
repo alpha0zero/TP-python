@@ -1,6 +1,5 @@
 from cmath import sqrt
 
-
 a = float(input("donner le coeficient a de l'equation: "))
 b = float(input("donner le coeficient b de l'equation: "))
 c = float(input("donner le coeficient c de l'equation: "))
